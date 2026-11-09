@@ -1,0 +1,81 @@
+product_id,product_name,category_id,price
+1,Wireless Mouse,1,1059
+2,Bluetooth Headphones,1,3971
+3,Smart Watch,1,3291
+4,USB-C Cable,1,665
+5,Laptop Stand,1,4625
+6,Mechanical Keyboard,1,3643
+7,Power Bank,1,3370
+8,Webcam,1,3118
+9,Bluetooth Speaker,1,329
+10,Gaming Mouse,1,1884
+11,Men's T-Shirt,2,968
+12,Women's Kurti,2,2590
+13,Jeans,2,2632
+14,Hoodie,2,1383
+15,Casual Shirt,2,4754
+16,Sports Shoes,2,3584
+17,Jacket,2,4316
+18,Cotton Saree,2,3103
+19,Track Pants,2,673
+20,Formal Trousers,2,1281
+21,Mixer Grinder,3,2757
+22,Electric Kettle,3,2246
+23,Dinner Set,3,2946
+24,Non-Stick Pan,3,1174
+25,Water Bottle,3,2005
+26,Bedsheet,3,388
+27,Table Lamp,3,2933
+28,Storage Box,3,3204
+29,Pressure Cooker,3,4857
+30,Coffee Mug,3,2098
+31,Face Wash,4,1466
+32,Moisturizer,4,1727
+33,Shampoo,4,3401
+34,Sunscreen,4,3755
+35,Lip Balm,4,4089
+36,Body Lotion,4,845
+37,Perfume,4,3087
+38,Face Serum,4,2634
+39,Hair Oil,4,799
+40,Makeup Kit,4,2562
+41,Yoga Mat,5,2260
+42,Cricket Bat,5,440
+43,Football,5,2240
+44,Dumbbells,5,3023
+45,Skipping Rope,5,2811
+46,Tennis Racket,5,1562
+47,Gym Gloves,5,1677
+48,Badminton Shuttle,5,2755
+49,Resistance Band,5,974
+50,Cycling Helmet,5,4213
+51,Python Programming,6,233
+52,Data Analytics Guide,6,3351
+53,SQL Fundamentals,6,2154
+54,Machine Learning Basics,6,1784
+55,Clean Code,6,4142
+56,Atomic Habits,6,3272
+57,Deep Work,6,1220
+58,DSA Interview Guide,6,3660
+59,Django Handbook,6,2812
+60,Power BI Guide,6,4042
+61,Basmati Rice,7,1699
+62,Green Tea,7,4997
+63,Coffee Powder,7,360
+64,Oats,7,4496
+65,Mixed Nuts,7,2180
+66,Olive Oil,7,1194
+67,Pasta,7,3541
+68,Honey,7,4750
+69,Dark Chocolate,7,3997
+70,Breakfast Cereal,7,1474
+71,Building Blocks,8,1215
+72,Remote Car,8,536
+73,Puzzle Set,8,1077
+74,Board Game,8,1275
+75,Teddy Bear,8,4192
+76,Action Figure,8,578
+77,Educational Kit,8,691
+78,Toy Kitchen Set,8,2261
+79,RC Helicopter,8,4083
+80,Art Kit,8,263
